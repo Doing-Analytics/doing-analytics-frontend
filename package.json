@@ -7,8 +7,6 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node --experimental-modules src/index.mjs ",
-    "type": "module"
   },
   "dependencies": {
     "react": "^18.2.0",
